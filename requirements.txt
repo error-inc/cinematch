@@ -1,0 +1,8 @@
+flask
+Werkzeug
+MarkupSafe
+pandas
+numpy
+scikit-learn
+requests
+python-dotenv
